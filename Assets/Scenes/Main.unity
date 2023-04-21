@@ -465,7 +465,7 @@ MonoBehaviour:
           name: FINISHED
           isSystemEvent: 1
           isGlobal: 0
-        toState: Print Loh
+        toState: Print Log
         linkStyle: 0
         linkConstraint: 0
         linkTarget: 0
@@ -521,7 +521,7 @@ MonoBehaviour:
         - realTime
         paramDataPos: 000000000000000000000000
         paramByteDataSize: 000000000000000001000000
-    - name: Print Loh
+    - name: Print Log
       description: 
       colorIndex: 0
       position:
